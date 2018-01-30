@@ -1,5 +1,5 @@
-# emails--templates-api
-Emails Templates API service.
+# cms-api
+CMS API service.
 
 ## Environment Variables
 The service should be properly configured with following environment variables.
